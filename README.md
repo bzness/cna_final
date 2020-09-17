@@ -33,6 +33,7 @@
 - 배민 배송 출발
  ![4 baeminDeliveryStart](https://user-images.githubusercontent.com/60597630/93408668-16586800-f8d0-11ea-90ef-6872d0227cc1.JPG) 
  ![4 baeminDeliveryStart_kafka log](https://user-images.githubusercontent.com/60597630/93408669-16586800-f8d0-11ea-8d49-37e8e9e14cbe.JPG) 
+ ![baemindeliveries 조회](https://user-images.githubusercontent.com/60597630/93415291-1d867280-f8de-11ea-922e-10665811c9cf.JPG)
 
 - Mypage view
  ![5 mypage](https://user-images.githubusercontent.com/60597630/93408675-17899500-f8d0-11ea-8f50-5722241ead9b.JPG) 
@@ -50,6 +51,7 @@
 # Circuit Breaker 적용
  - siege -c50 -t30S -v --content-type "application/json" 'http://baemindelivery:8080/baemindeliveries/ POST {"status":"11111","id":38}' 로 테스트
  - ![7 circuit breaker](https://user-images.githubusercontent.com/60597630/93408682-1a848580-f8d0-11ea-8105-7c9b72894701.JPG) 
+ - ![7 circuit breaker kiali](https://user-images.githubusercontent.com/60597630/93415290-1ceddc00-f8de-11ea-9b27-a109f42b6635.JPG) 
 
 
 # Polyglot 적용
