@@ -50,8 +50,8 @@
 
 # Circuit Breaker 적용
  - siege -c50 -t30S -v --content-type "application/json" 'http://baemindelivery:8080/baemindeliveries/ POST {"status":"11111","id":38}' 로 테스트
- - ![7 circuit breaker](https://user-images.githubusercontent.com/60597630/93408682-1a848580-f8d0-11ea-8105-7c9b72894701.JPG) 
  - ![7 circuit breaker kiali](https://user-images.githubusercontent.com/60597630/93415290-1ceddc00-f8de-11ea-9b27-a109f42b6635.JPG) 
+ - ![7 circuit breaker_new](https://user-images.githubusercontent.com/60597630/93417750-bc619d80-f8e3-11ea-8cf5-de38f5292da2.JPG) 
 
 
 # Polyglot 적용
