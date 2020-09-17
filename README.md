@@ -17,7 +17,8 @@
 
 
 # 모델링
- ![1 모델링](https://user-images.githubusercontent.com/60597630/93408661-13f60e00-f8d0-11ea-8fe3-0c3c3c51fada.JPG) 
+ - ASIS: <img width="1920" alt="모델링" src="https://user-images.githubusercontent.com/60597630/93424688-7ad8ee80-f8f3-11ea-9529-fb2b705af27f.png">
+ - TOBE: ![1 모델링](https://user-images.githubusercontent.com/60597630/93408661-13f60e00-f8d0-11ea-8fe3-0c3c3c51fada.JPG) 
 
 
 # 구현
