@@ -48,7 +48,7 @@
  
 
 # Circuit Breaker 적용
- - siege -c50 -t30S -v --content-type "application/json" 'http://order:8080/orders POST {"flowerName":"AAAA","qty":5}' 로 테스트
+ - siege -c50 -t30S -v --content-type "application/json" 'http://baemindelivery:8080/baemindeliveries/ POST {"status":"11111","id":38}' 로 테스트
  - ![7 circuit breaker](https://user-images.githubusercontent.com/60597630/93408682-1a848580-f8d0-11ea-8105-7c9b72894701.JPG) 
 
 
