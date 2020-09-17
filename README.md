@@ -44,8 +44,8 @@
 
 # AutoScale 적용
  - ![7 autoscale적용](https://user-images.githubusercontent.com/60597630/93411382-02b00000-f8d6-11ea-83e6-0437b3c9a605.JPG) 
- - ![7 autoscale-before](https://user-images.githubusercontent.com/60597630/93408681-1a848580-f8d0-11ea-88ad-d35d432f7233.JPG) 
- - ![7 autoscale-after](https://user-images.githubusercontent.com/60597630/93408679-19535880-f8d0-11ea-9f13-f3c278002d57.JPG) 
+ - ![7 autoscale적용command](https://user-images.githubusercontent.com/60597630/93412194-a77f0d00-f8d7-11ea-8255-cfced0dc65cf.JPG) 
+ 
 
 # Circuit Breaker 적용
  - ![7 circuit breaker](https://user-images.githubusercontent.com/60597630/93408682-1a848580-f8d0-11ea-8105-7c9b72894701.JPG) 
